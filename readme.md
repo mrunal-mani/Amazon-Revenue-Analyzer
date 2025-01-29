@@ -1,4 +1,4 @@
-# Amazon Sales Analysis Final Project
+# Amazon Revenue Analyzer
 
 ## Overview
 This project aims to analyze Amazon sales data to identify trends, key metrics, and relationships between various attributes. The project involves data extraction, transformation, and visualization using various tools and techniques.
